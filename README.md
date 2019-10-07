@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ThomasMilcher/Pipelinetest/_apis/build/status/twain757.pipelines-java?branchName=master)](https://dev.azure.com/ThomasMilcher/Pipelinetest/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
